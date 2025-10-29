@@ -1,0 +1,21 @@
+airline,airline_sentiment,text,tweet_id
+United,negative,Flight cancelled again! This is the third time this month,1001
+Delta,positive,Great service on my flight today. Crew was very helpful,1002
+American,negative,Lost my luggage and customer service is terrible,1003
+Southwest,neutral,Flight delayed but they kept us informed,1004
+United,negative,Worst airline experience ever. Never flying United again,1005
+Delta,positive,Love the food and entertainment options on Delta,1006
+American,negative,Overpriced tickets and poor service quality,1007
+Southwest,positive,Best budget airline! Always reliable,1008
+United,neutral,Flight was okay nothing special,1009
+Delta,negative,Seat was uncomfortable and flight was delayed,1010
+American,positive,Smooth flight and friendly staff,1011
+Southwest,negative,Baggage fees are getting ridiculous,1012
+United,positive,Actually had a good experience this time,1013
+Delta,neutral,Standard flight no complaints,1014
+American,negative,Customer service hung up on me twice,1015
+Southwest,positive,Great value for money and good service,1016
+United,negative,Safety concerns after recent incidents,1017
+Delta,positive,Premium service worth the extra cost,1018
+American,neutral,Flight arrived on time as scheduled,1019
+Southwest,negative,Cramped seats and no amenities,1020
